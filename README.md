@@ -151,12 +151,15 @@ Guidewire DEVTrails 2026
 👥 Team CloudCrew
 
 
-![**Persona**][CloudCrew.jpg](https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw)
+
 
 ## 🔗 Project Links
+👤 **Persona**
+CloudCrew.jpg](https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw)
 
 🎥 **YouTube Demo Video**
 https://www.youtube.com/watch?v=L9tS1gLcUaM
+
 
 📊 **Pitch Deck (PPT)**
 [Download Kavach.AI PPT](./KavachAI.pptx)
@@ -164,4 +167,4 @@ https://www.youtube.com/watch?v=L9tS1gLcUaM
 📢 **LinkedIn Post**
 https://www.linkedin.com/posts/kancharla-pujitha-sri_guidewiredevtrails2026-devtrails2026-hackathon-activity-7440404847960698880-jBpG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEl47YEByTvepf4Y8aQHVpfM03z6ofEP1eA
 
----
+
