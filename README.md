@@ -155,7 +155,7 @@ Guidewire DEVTrails 2026
 
 ## 🔗 Project Links
 👤 **Persona**
-CloudCrew.jpg](https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw)
+https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw
 
 🎥 **YouTube Demo Video**
 https://www.youtube.com/watch?v=L9tS1gLcUaM
