@@ -149,8 +149,8 @@ Food delivery partners (Swiggy / Zomato) in urban areas like **Vijayawada**
 Guidewire DEVTrails 2026
 
 👥 Team CloudCrew
-👩‍💻https://www.linkedin.com/in/kancharla-pujitha-sri/
-👩‍💻https://www.linkedin.com/in/jannu-vishnu-priyanka-7ba4a5331/
+👩‍💻https://www.linkedin.com/in/kancharla-pujitha-sri/ \\
+👩‍💻https://www.linkedin.com/in/jannu-vishnu-priyanka-7ba4a5331/ \\
 👩‍💻https://www.linkedin.com/in/leenasrilahari/
 
 
