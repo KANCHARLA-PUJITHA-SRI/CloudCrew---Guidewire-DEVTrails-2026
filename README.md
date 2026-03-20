@@ -1,6 +1,6 @@
 # 🚀 Kavach.AI – AI-Powered Parametric Income Protection
 
-![KavachAI Banner](./[CloudCrew.jpg](https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw))
+![KavachAI Banner]([CloudCrew.jpg](https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw))
 
 ### 👥 Team: CloudCrew
 
