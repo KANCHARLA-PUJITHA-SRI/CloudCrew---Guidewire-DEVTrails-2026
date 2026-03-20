@@ -158,6 +158,10 @@ Guidewire DEVTrails 2026
 
 
 ## 🔗 Project Links
+
+🚀 **Prototype**
+https://cloudcrew-guidewire-devtrails-2026-omega.vercel.app/
+
 👤 **Persona**
 https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw
 
