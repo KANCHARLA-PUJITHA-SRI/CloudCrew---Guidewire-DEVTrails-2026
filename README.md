@@ -1,6 +1,6 @@
 # 🚀 Kavach.AI – AI-Powered Parametric Income Protection
 
-![KavachAI Banner][CloudCrew.jpg](https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw)
+
 
 ### 👥 Team: CloudCrew
 
@@ -8,7 +8,7 @@ Kavach.AI is an **AI-powered parametric insurance platform** designed to protect
 
 Built as part of **Guidewire DEVTrails 2026** 🚀
 
----
+
 
 ## 🌍 Problem Statement
 
@@ -24,7 +24,7 @@ They lose **20–30% of their income**, sometimes dropping to **₹0**.
 
 ❗ Currently, there is **no system protecting their daily earnings**.
 
----
+
 
 ## 💡 Our Solution – Kavach.AI
 
@@ -36,7 +36,7 @@ Kavach.AI introduces **AI-powered parametric insurance**
 
 👉 No paperwork. No manual claims.
 
----
+
 
 ## 🎯 Key Features
 
@@ -73,13 +73,13 @@ Premium = Base Price + (Risk Score × Adjustment Factor)
 * Worker: earnings protected, alerts
 * Admin: analytics, fraud insights
 
----
+
 
 ## 👤 Target Users
 
 Food delivery partners (Swiggy / Zomato) in urban areas like **Vijayawada**
 
----
+
 
 ## ⚙️ System Workflow
 
@@ -90,7 +90,7 @@ Food delivery partners (Swiggy / Zomato) in urban areas like **Vijayawada**
 5️⃣ Trigger occurs → claim auto-initiated
 6️⃣ Instant payout processed
 
----
+
 
 ## 📊 Example Scenario
 
@@ -101,7 +101,7 @@ Food delivery partners (Swiggy / Zomato) in urban areas like **Vijayawada**
 * ✅ Claim triggered automatically
 * ✅ ₹300 credited instantly
 
----
+
 
 ## 🧠 AI / ML Models
 
@@ -111,7 +111,7 @@ Food delivery partners (Swiggy / Zomato) in urban areas like **Vijayawada**
 | Premium Optimization | Regression       |
 | Fraud Detection      | Isolation Forest |
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -123,7 +123,7 @@ Food delivery partners (Swiggy / Zomato) in urban areas like **Vijayawada**
 **Payments:** Razorpay (Test Mode)
 **Cloud:** AWS / Render / Railway
 
----
+
 
 ## 🌟 Unique Innovations
 
@@ -133,7 +133,7 @@ Food delivery partners (Swiggy / Zomato) in urban areas like **Vijayawada**
 ✨ Income Loss Simulator
 ✨ Adaptive Coverage
 
----
+
 
 ## 🔮 Future Scope
 
@@ -142,7 +142,7 @@ Food delivery partners (Swiggy / Zomato) in urban areas like **Vijayawada**
 * Personalized insurance plans
 * Advanced AI predictions
 
----
+
 
 ## 🏆 Built For
 
@@ -150,7 +150,8 @@ Guidewire DEVTrails 2026
 
 👥 Team CloudCrew
 
----
+
+![**Persona**][CloudCrew.jpg](https://kluniversityin-my.sharepoint.com/:i:/g/personal/2300031012_kluniversity_in/IQBCwRmwQ198TZjll7NdB394AcZPglhOpGfRZvvt4dixX-4?e=kcTfCw)
 
 ## 🔗 Project Links
 
